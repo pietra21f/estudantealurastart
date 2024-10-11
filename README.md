@@ -1,4 +1,4 @@
-# Boas Vindas ao meu perfil
+# Boas Vindas ao meu perfil 💙
 
 meu nome é Pietra Isabellie Maciel Bertolin
 
@@ -6,6 +6,6 @@ meu nome é Pietra Isabellie Maciel Bertolin
 * Estou me desenvolvendo na linguagem JavaScript
 * Utilizo esse espaço para minha organização e compartilhamento dos meu projetos deenvolvidos
   
-# Para Entrar Em Contato comigo
+# Para Entrar Em Contato comigo 📫
 
 pietra.bertolin@escola.pr.gov.br
